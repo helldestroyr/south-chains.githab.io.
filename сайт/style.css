@@ -5,7 +5,7 @@ body {
     line-height: 18px;
     color: #000000;
    
-        background: url(E:/2.png) 50%  repeat-y;
+        background: url(2.png) 50%  repeat-y;
        
     
         
@@ -71,17 +71,17 @@ body {
   
   .feature-kitten {
     padding-top: 60px;
-    background-image: url(E:/4.png);
+    background-image: url(4.png);
   }
   
   .feature-cat {
     padding-top: 60px;
-    background-image: url(E:/lock.png);
+    background-image: url(lock.png);
   }
   
   .feature-train {
     padding-top: 30px;
-    background-image: url(E:/circle.png);
+    background-image: url(circle.png);
   }
   
   .skills-list {
